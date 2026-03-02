@@ -47,7 +47,7 @@
 
 [**LinkedIn**](www.linkedin.com/in/purity-ngugi-174931252) •
 [**Email**](mailto:ngugipurityn@gmail.com) •
-[**Portfolio**]([https://your-portfolio.com](https://purengugi.github.io/Portfolio/))
+[**Portfolio**](https://purengugi.github.io/Portfolio/)
 
 </div>
 
@@ -55,6 +55,6 @@
 
 <div align="center">
   
-  ⭐️ From [Purengugi](https://github.com/Purengugi)
+  ♡ From [Purity Ngugi](https://github.com/Purengugi)
   
 </div>
