@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrng815/giphy.gif" width="28px" alt="wave"/> Hi, I'm Purity Ngugi!
+# Hi, I'm Purity Ngugi!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-Stack+Developer;Tech+Enthusiast+%F0%9F%92%A1" alt="Typing SVG" />
