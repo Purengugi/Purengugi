@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrng815/giphy.gif" width="28px" alt="wave"/> Hi, I'm Purengugi!
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrng815/giphy.gif" width="28px" alt="wave"/> Hi, I'm Purity Ngugi!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Tech+Enthusiast;Open+Source+Contributor;Always+Learning+%F0%9F%92%A1" alt="Typing SVG" />
@@ -33,15 +33,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Purengugi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purengugi&layout=compact&langs_count=7&theme=dracula" alt="Top Languages"/>
-</div>
-
----
-
 ## 🔥 Contributions & Streaks
 
 <div align="center">
@@ -50,38 +41,17 @@
 
 ---
 
-## 🎯 Current Focus
-
-- 🌐 **[Add your current project name here]**
-- 📚 Learning: [Add technologies you're learning]
-- 🤝 Open for collaborations on [Add your interests]
-
----
-
 ## 📫 Let's Connect!
 
 <div align="center">
 
-[**LinkedIn**](https://linkedin.com/in/your-profile) •
-[**Twitter**](https://twitter.com/your-handle) •
-[**Email**](mailto:your-email@example.com) •
-[**Portfolio**](https://your-portfolio.com)
+[**LinkedIn**](www.linkedin.com/in/purity-ngugi-174931252) •
+[**Email**](mailto:ngugipurityn@gmail.com) •
+[**Portfolio**]([https://your-portfolio.com](https://purengugi.github.io/Portfolio/))
 
 </div>
 
 ---
-
-## 🎮 Fun Facts
-
-- 🎬 [Add a fun fact about yourself]
-- 🎵 [Add another interesting thing]
-- 🌍 [Add something about your interests]
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Purengugi&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
 
 <div align="center">
   
