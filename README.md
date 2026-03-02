@@ -8,11 +8,11 @@
 
 ## 👨‍💻 About Me
 
-🎯 Passionate developer building cool things on the web
-🔥 Currently learning and mastering new technologies
-🚀 Open source enthusiast & active contributor
-💡 Love solving complex problems with elegant solutions
-⚡ Always up for collaboration on exciting projects
+🎯 Passionate developer building cool things on the web <br/>
+🔥 Currently learning and mastering new technologies <br/>
+🚀 Open source enthusiast & active contributor <br/>
+💡 Love solving complex problems with elegant solutions <br/>
+⚡ Always up for collaboration on exciting projects <br/>
 
 ---
 
