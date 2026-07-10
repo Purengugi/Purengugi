@@ -47,10 +47,10 @@
 
 ---
 
-## 🔥 Contributions & Streaks
+## 🔥 Contributions
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/dracula/Purengugi" alt="Purengugi's GitHub Contributions" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Purengugi&show_icons=true&theme=dracula&hide=stars,prs,issues,contribs" alt="Total Commits" />
 </div>
 
 ---
