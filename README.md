@@ -50,7 +50,7 @@
 ## 🔥 Contributions & Streaks
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Purengugi&theme=dracula" alt="GitHub Streak Stats"/>
+  <img src="https://ghchart.rshah.org/dracula/Purengugi" alt="Purengugi's GitHub Contributions" />
 </div>
 
 ---
