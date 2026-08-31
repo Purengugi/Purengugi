@@ -51,8 +51,8 @@ I build full-stack applications end to end — from the pixels you click to the 
 ### 🔥 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Purengugi&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Purity's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Purengugi&theme=dracula&hide_border=true" alt="Purity's streak stats" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Purengugi&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Purity's GitHub stats" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Purengugi&theme=dracula&hide_border=true" alt="Purity's streak stats" height="165"/>
 </div>
 
 <div align="center">
