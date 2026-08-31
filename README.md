@@ -4,6 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-Stack+Developer;Building+things+that+don't+break+(often);Powered+by+coffee+%26+curiosity" alt="Typing SVG" />
 </div>
 
+---
+
+
 ### 🚀 About Me
 
 I build full-stack applications end to end — from the pixels you click to the databases quietly doing the heavy lifting behind them. I like clean code, elegant UI, and the particular chaos of debugging at 1am.
