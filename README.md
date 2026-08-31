@@ -65,4 +65,6 @@ I build full-stack applications end to end - from the pixels you click to the da
 
 </div>
 
+---
+
 <p align="center"><i>Open to full-time roles, freelance work and cool collaborations ✨</i></p>
