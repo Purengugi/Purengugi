@@ -61,12 +61,6 @@ I build full-stack applications end to end — from the pixels you click to the 
 
 ---
 
-### 💡 A Few Things I've Built
-
-Check out the pinned repos below for the highlights — a hospital workflow system, an AI health assistant, a real-time polling app, and a few other experiments in problem-solving. Full list on my [portfolio](https://portfolio-purityngugi.vercel.app/) and [GitHub](https://github.com/Purengugi).
-
----
-
 ### 📫 Let's Connect
 
 <div align="center">
