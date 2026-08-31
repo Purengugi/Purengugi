@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Purity 👋</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-Stack+Developer;Building+things+that+don't+break+(often);Powered+by+coffee+%26+curiosity" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-Stack+Developer;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
@@ -10,14 +10,15 @@
 
 I build full-stack applications end to end — from the pixels you click to the databases quietly doing the heavy lifting behind them. I like clean code, elegant UI, and the particular chaos of debugging at 1am.
 
-- 🔭 Currently building and shipping side projects
-- 🌱 Always leveling up — new frameworks, new tools, new rabbit holes
-- 🤝 Down to collaborate on interesting builds
-- ⚡ Fun fact: I can turn "it works on my machine" into an actual deployment
+🎯 Passionate developer building cool things on the web <br/>
+🔥 Currently learning and mastering new technologies <br/>
+🚀 Open source enthusiast & active contributor <br/>
+💡 Love solving complex problems with elegant solutions <br/>
+⚡ Always up for collaboration on exciting projects <br/>
 
 ---
 
-### 🛠️ Tech I Reach For
+### 🛠️ Tech Stack
 
 <div align="center">
 
@@ -62,4 +63,4 @@ I build full-stack applications end to end — from the pixels you click to the 
 
 </div>
 
-<p align="center"><i>Open to full-time roles, freelance work, and cool collaborations ✨</i></p>
+<p align="center"><i>Open to full-time roles, freelance work and cool collaborations ✨</i></p>
