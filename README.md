@@ -6,7 +6,6 @@
 
 ---
 
-
 ### 🚀 About Me
 
 I build full-stack applications end to end — from the pixels you click to the databases quietly doing the heavy lifting behind them. I like clean code, elegant UI, and the particular chaos of debugging at 1am.
