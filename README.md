@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 2em; font-weight: bold;">Hey, I'm Purity 👋</p>
+<p align="center" style="font-size: 2em; font-weight: bold; margin: 0.67em 0; display: block;">Hey, I'm Purity 👋</p>
 
 ---
 
