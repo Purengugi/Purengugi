@@ -1,4 +1,6 @@
-<h1 align="center" style="border-bottom: none;">Hey, I'm Purity 👋</h1>
+<div align="center">
+  <h1 style="border-bottom: none;">Hey, I'm Purity 👋</h1>
+</div>
 
 ---
 
