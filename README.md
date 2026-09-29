@@ -10,13 +10,15 @@
 
 ### 🚀 About Me
 
-I build full-stack applications end to end - from the pixels you click to the databases quietly doing the heavy lifting behind them. I like clean code and elegant UI.
+I am an Information Technology graduate with hands-on experience spanning full-stack web development, database systems, networking, IT support and AI/ML data operations.
 
-🎯 Passionate developer building cool things on the web <br/>
-🔥 Currently learning and mastering new technologies <br/>
-🚀 Open source enthusiast & active contributor <br/>
-💡 Love solving complex problems with elegant solutions <br/>
-⚡ Always up for collaboration on exciting projects <br/>
+My technical work spans Python (Django, Flask), JavaScript, TypeScript, React.js, PHP, Node.js, C, C++, C#, Java, HTML5, Tailwind, Bootstrap, MySQL, MongoDB, PostgreSQL, REST APIs, Git/GitHub, AWS, CI/CD and Linux.
+
+I completed the ALX Africa Software Engineering program, gaining practical exposure to full-stack development, system design, API integration and collaborative agile workflows. I also hold certifications in IBM Artificial Intelligence Fundamentals, IBM Cybersecurity and ALX AI Career Essentials.
+
+I have experience supporting IT infrastructure and endpoints, troubleshooting hardware and software issues and delivering IT support services. During my industrial attachment, I developed and maintained responsive web applications, implemented UI/UX improvements, conducted website testing and debugging, supported SEO optimization and managed content management systems.
+
+My academic and professional projects include MediHelp AI (AI-powered nutritional health assistant), Climascope (full-stack weather forecast app), C.H.A.R.L.E.N.E (hospital management system) and SmartSpend (expense management app with financial analytics). I am also a Cisco-certified professional with additional certifications in Python, JavaScript, AI fundamentals, cybersecurity, data fundamentals, web development and API testing.
 
 ---
 
@@ -61,6 +63,7 @@ I build full-stack applications end to end - from the pixels you click to the da
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-purityngugi.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purity-ngugi-174931252/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_iampurity)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngugipurityn@gmail.com)
 
 </div>
