@@ -1,6 +1,4 @@
-<p align="center" style="font-size: 2em; font-weight: bold; margin: 0.67em 0;">Hey, I'm Purity 👋</p>
-
----
+<h1 align="center">Hey, I'm Purity 👋</h1>
 
 <div align="center">
    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-Stack+Developer;Tech+Enthusiast" alt="Typing SVG" />
