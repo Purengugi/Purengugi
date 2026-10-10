@@ -75,3 +75,5 @@ My academic and professional projects include MediHelp AI (AI-powered nutritiona
 
 ---
 <p align="center"><i>Open to full-time roles, freelance work and cool collaborations ✨</i></p>
+
+---
