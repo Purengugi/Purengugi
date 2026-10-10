@@ -6,15 +6,9 @@
 
 <h1 align="center">🚀 About Me </h1>
 
-I am an Information Technology graduate with hands-on experience spanning full-stack web development, database systems, networking, IT support and AI/ML data operations.
+I am an Information Technology graduate with hands-on experience spanning software engineering, full-stack development, database systems, networking, IT support and AI/ML data operations.
 
-My technical work spans Python (Django, Flask), JavaScript, TypeScript, React.js, PHP, Node.js, C, C++, C#, Java, HTML5, Tailwind, Bootstrap, MySQL, MongoDB, PostgreSQL, REST APIs, Git/GitHub, AWS, CI/CD and Linux.
-
-I completed the ALX Africa Software Engineering program, gaining practical exposure to full-stack development, system design, API integration and collaborative agile workflows. I also hold certifications in IBM Artificial Intelligence Fundamentals, IBM Cybersecurity and ALX AI Career Essentials.
-
-I have experience supporting IT infrastructure and endpoints, troubleshooting hardware and software issues and delivering IT support services. During my industrial attachment, I developed and maintained responsive web applications, implemented UI/UX improvements, conducted website testing and debugging, supported SEO optimization and managed content management systems.
-
-My academic and professional projects include MediHelp AI (AI-powered nutritional health assistant), Climascope (full-stack weather forecast app), C.H.A.R.L.E.N.E (hospital management system) and SmartSpend (expense management app with financial analytics). I am also a Cisco-certified professional with additional certifications in Python, JavaScript, AI fundamentals, cybersecurity, data fundamentals, web development and API testing.
+I also have experience supporting IT infrastructure and endpoints, troubleshooting hardware and software issues delivering IT support services, developing and maintaining responsive web applications, implementing UI/UX improvements, conducting website testing and debugging, support SEO optimization and managing content management systems.
 
 ---
 <h1 align="center">🛠️ Tech Stack </h1>
