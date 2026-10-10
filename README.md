@@ -8,7 +8,7 @@
 
 ---
 
-<h1> 🚀 About Me </h1>
+<h1 align="center"> 🚀 About Me </h1>
 
 I am an Information Technology graduate with hands-on experience spanning full-stack web development, database systems, networking, IT support and AI/ML data operations.
 
@@ -22,7 +22,7 @@ My academic and professional projects include MediHelp AI (AI-powered nutritiona
 
 ---
 
-### 🛠️ Tech Stack
+<h1 align="center"> 🛠️ Tech Stack </h1>
 
 <div align="center">
 
@@ -50,7 +50,7 @@ My academic and professional projects include MediHelp AI (AI-powered nutritiona
 
 ---
 
-### 🔥 GitHub Stats
+<h1 align="center"> 🔥 GitHub Stats </h1>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Purengugi&theme=dracula&hide_border=true" alt="Purity's streak stats" height="165"/>
@@ -69,7 +69,7 @@ My academic and professional projects include MediHelp AI (AI-powered nutritiona
 
 ---
 
-### 📫 Let's Connect
+<h1 align="center"> 📫 Let's Connect </h1>
 
 <div align="center">
 
