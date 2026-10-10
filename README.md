@@ -39,6 +39,7 @@ My academic and professional projects include MediHelp AI (AI-powered nutritiona
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -55,6 +56,10 @@ My academic and professional projects include MediHelp AI (AI-powered nutritiona
   <img src="https://streak-stats.demolab.com?user=Purengugi&theme=dracula&hide_border=true" alt="Purity's streak stats" height="165"/>
 </div>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Purengugi&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+
+[![](https://visitcount.itsvg.in/api?id=Purengugi&icon=1&color=1)](https://visitcount.itsvg.in)
 ---
 
 ### 📫 Let's Connect
