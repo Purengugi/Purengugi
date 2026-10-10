@@ -15,7 +15,7 @@ I completed the ALX Africa Software Engineering program, gaining practical expos
 I have experience supporting IT infrastructure and endpoints, troubleshooting hardware and software issues and delivering IT support services. During my industrial attachment, I developed and maintained responsive web applications, implemented UI/UX improvements, conducted website testing and debugging, supported SEO optimization and managed content management systems.
 
 My academic and professional projects include MediHelp AI (AI-powered nutritional health assistant), Climascope (full-stack weather forecast app), C.H.A.R.L.E.N.E (hospital management system) and SmartSpend (expense management app with financial analytics). I am also a Cisco-certified professional with additional certifications in Python, JavaScript, AI fundamentals, cybersecurity, data fundamentals, web development and API testing.
-
+---
 <h1 align="center"> 🛠️ Tech Stack </h1>
 
 <div align="center">
