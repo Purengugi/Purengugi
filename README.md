@@ -1,12 +1,9 @@
 <h1 align="center">Hey, I'm Purity 👋</h1>
 
----
-
 <div align="center">
    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-Stack+Developer;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
----
 <h1 align="center"> 🚀 About Me </h1>
 
 I am an Information Technology graduate with hands-on experience spanning full-stack web development, database systems, networking, IT support and AI/ML data operations.
@@ -18,8 +15,6 @@ I completed the ALX Africa Software Engineering program, gaining practical expos
 I have experience supporting IT infrastructure and endpoints, troubleshooting hardware and software issues and delivering IT support services. During my industrial attachment, I developed and maintained responsive web applications, implemented UI/UX improvements, conducted website testing and debugging, supported SEO optimization and managed content management systems.
 
 My academic and professional projects include MediHelp AI (AI-powered nutritional health assistant), Climascope (full-stack weather forecast app), C.H.A.R.L.E.N.E (hospital management system) and SmartSpend (expense management app with financial analytics). I am also a Cisco-certified professional with additional certifications in Python, JavaScript, AI fundamentals, cybersecurity, data fundamentals, web development and API testing.
-
----
 
 <h1 align="center"> 🛠️ Tech Stack </h1>
 
@@ -46,8 +41,6 @@ My academic and professional projects include MediHelp AI (AI-powered nutritiona
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
-
----
 
 <h1 align="center"> 🔥 GitHub Stats </h1>
 
@@ -76,7 +69,5 @@ My academic and professional projects include MediHelp AI (AI-powered nutritiona
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngugipurityn@gmail.com)
 
 </div>
-
----
 
 <p align="center"><i>Open to full-time roles, freelance work and cool collaborations ✨</i></p>
