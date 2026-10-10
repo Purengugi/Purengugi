@@ -43,6 +43,7 @@ My academic and professional projects include MediHelp AI (AI-powered nutritiona
 
 </div>
 
+---
 <h1 align="center"> 🔥 GitHub Stats </h1>
 
 <div align="center">
@@ -60,6 +61,7 @@ My academic and professional projects include MediHelp AI (AI-powered nutritiona
 
 </div>
 
+---
 <h1 align="center"> 📫 Let's Connect </h1>
 
 <div align="center">
@@ -71,4 +73,5 @@ My academic and professional projects include MediHelp AI (AI-powered nutritiona
 
 </div>
 
+---
 <p align="center"><i>Open to full-time roles, freelance work and cool collaborations ✨</i></p>
