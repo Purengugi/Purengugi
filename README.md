@@ -4,7 +4,7 @@
    <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-Stack+Developer;Tech+Enthusiast" alt="Typing SVG" /> </h1>
 </div>
 
-<h1 align="center"> 🚀 About Me </h1>
+<h1 align="center">🚀 About Me </h1>
 
 I am an Information Technology graduate with hands-on experience spanning full-stack web development, database systems, networking, IT support and AI/ML data operations.
 
@@ -17,7 +17,7 @@ I have experience supporting IT infrastructure and endpoints, troubleshooting ha
 My academic and professional projects include MediHelp AI (AI-powered nutritional health assistant), Climascope (full-stack weather forecast app), C.H.A.R.L.E.N.E (hospital management system) and SmartSpend (expense management app with financial analytics). I am also a Cisco-certified professional with additional certifications in Python, JavaScript, AI fundamentals, cybersecurity, data fundamentals, web development and API testing.
 
 ---
-<h1 align="center"> 🛠️ Tech Stack </h1>
+<h1 align="center">🛠️ Tech Stack </h1>
 
 <div align="center">
 
@@ -44,7 +44,7 @@ My academic and professional projects include MediHelp AI (AI-powered nutritiona
 </div>
 
 ---
-<h1 align="center"> 🔥 GitHub Stats </h1>
+<h1 align="center">🔥 GitHub Stats </h1>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Purengugi&theme=dracula&hide_border=true" alt="Purity's streak stats" height="165"/>
@@ -62,7 +62,7 @@ My academic and professional projects include MediHelp AI (AI-powered nutritiona
 </div>
 
 ---
-<h1 align="center"> 📫 Let's Connect </h1>
+<h1 align="center">📫 Let's Connect </h1>
 
 <div align="center">
 
@@ -74,6 +74,6 @@ My academic and professional projects include MediHelp AI (AI-powered nutritiona
 </div>
 
 ---
-<p align="center"><i>Open to full-time roles, freelance work and cool collaborations ✨</i></p>
+<p align="center"><i>Open to full-time roles, freelance work and cool collaborations✨</i></p>
 
 ---
