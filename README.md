@@ -54,7 +54,7 @@ My academic and professional projects include MediHelp AI (AI-powered nutritiona
 
 <div align="center">
    
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kinotijoan&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Purengugi&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 
 [![](https://visitcount.itsvg.in/api?id=Purengugi&icon=1&color=1)](https://visitcount.itsvg.in)
