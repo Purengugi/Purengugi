@@ -66,8 +66,6 @@ My academic and professional projects include MediHelp AI (AI-powered nutritiona
 
 </div>
 
----
-
 <h1 align="center"> 📫 Let's Connect </h1>
 
 <div align="center">
