@@ -7,7 +7,6 @@
 </div>
 
 ---
-
 <h1 align="center"> 🚀 About Me </h1>
 
 I am an Information Technology graduate with hands-on experience spanning full-stack web development, database systems, networking, IT support and AI/ML data operations.
