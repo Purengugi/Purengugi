@@ -8,7 +8,7 @@
 
 I am an Information Technology graduate with hands-on experience spanning software engineering, full-stack development, database systems, networking, IT support and AI/ML data operations.
 
-I also have experience supporting IT infrastructure and endpoints, troubleshooting hardware and software issues delivering IT support services, developing and maintaining responsive web applications, implementing UI/UX improvements, conducting website testing and debugging, support SEO optimization and managing content management systems.
+I also have experience supporting IT infrastructure and endpoints, troubleshooting hardware and software issues delivering IT support services, developing and maintaining responsive web applications, implementing UI/UX improvements, conducting website testing and debugging, supporting SEO optimization and managing content management systems.
 
 ---
 <h1 align="center">🛠️ Tech Stack </h1>
