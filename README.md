@@ -4,14 +4,14 @@
    <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-Stack+Developer;Tech+Enthusiast" alt="Typing SVG" /> </h1>
 </div>
 
-<h2 align="center">🚀 About Me </h2>
+<h2>🚀 About Me </h2>
 
 I am an Information Technology graduate with hands-on experience spanning software engineering, full-stack development, database systems, networking, IT support and AI/ML data operations.
 
 I also have experience supporting IT infrastructure and endpoints, troubleshooting hardware and software issues delivering IT support services, developing and maintaining responsive web applications, implementing UI/UX improvements, conducting website testing and debugging, supporting SEO optimization and managing content management systems.
 
 ---
-<h1 align="center">🛠️ Tech Stack </h1>
+<h2>🛠️ Tech Stack </h2>
 
 <div align="center">
 
@@ -38,7 +38,7 @@ I also have experience supporting IT infrastructure and endpoints, troubleshooti
 </div>
 
 ---
-<h1 align="center">🔥 GitHub Stats </h1>
+<h2>🔥 GitHub Stats </h2>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Purengugi&theme=dracula&hide_border=true" alt="Purity's streak stats" height="165"/>
@@ -56,7 +56,7 @@ I also have experience supporting IT infrastructure and endpoints, troubleshooti
 </div>
 
 ---
-<h1 align="center">📫 Let's Connect </h1>
+<h2>📫 Let's Connect </h2>
 
 <div align="center">
 
