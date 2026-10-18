@@ -6,7 +6,7 @@
 
 <h2>🚀 About Me </h2>
 
-I am an Information Technology graduate with hands-on experience spanning software engineering, full-stack development, database systems, networking, IT support and AI/ML data operations.
+I'm an Information Technology graduate with hands-on experience spanning software engineering, full-stack development, cloud computing, database systems, networking, IT support and AI/ML data operations.
 
 I also have experience supporting IT infrastructure and endpoints, troubleshooting hardware and software issues delivering IT support services, developing and maintaining responsive web applications, implementing UI/UX improvements, conducting website testing and debugging, supporting SEO optimization and managing content management systems.
 
