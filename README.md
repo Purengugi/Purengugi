@@ -1,12 +1,12 @@
 <h1 align="center"> Hey, I'm Purity 👋</h1>
 
 <div align="center">
-   <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-Stack+Developer;Tech+Enthusiast" alt="Typing SVG" /> </h1>
+   <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-Stack+Developer;Cloud+and+Devops;AI+and+Machine+Learning" alt="Typing SVG" /> </h1>
 </div>
 
 <h2>🚀 About Me </h2>
 
-I'm an Information Technology graduate with hands-on experience spanning software engineering, full-stack development, Cloud & DveOps, database management, IT operations and AI/ML implementation.
+I'm an Information Technology graduate with hands-on experience spanning software engineering, full-stack development, Cloud & DevOps, database management, IT operations and AI/ML implementation.
 
 ---
 <h2>🛠️ Tech Stack </h2>
