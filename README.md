@@ -1,7 +1,7 @@
 <h1 align="center"> Hey, I'm Purity 👋</h1>
 
 <div align="center">
-   <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-Stack+Developer;Cloud+and+Devops;AI+and+Machine+Learning" alt="Typing SVG" /> </h1>
+   <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-Stack+Developer;Cloud+&+DevOps;AI+&+Machine+Learning" alt="Typing SVG" /> </h1>
 </div>
 
 <h2>🚀 About Me </h2>
