@@ -6,9 +6,7 @@
 
 <h2>🚀 About Me </h2>
 
-I'm an Information Technology graduate with hands-on experience spanning software engineering, full-stack development, cloud computing, database systems, networking, IT support and AI/ML data operations.
-
-I also have experience supporting IT infrastructure and endpoints, troubleshooting hardware and software issues delivering IT support services, developing and maintaining responsive web applications, implementing UI/UX improvements, conducting website testing and debugging, supporting SEO optimization and managing content management systems.
+I'm an Information Technology graduate with hands-on experience spanning software engineering, full-stack development, Cloud & DveOps, database management, IT operations and AI/ML implementation.
 
 ---
 <h2>🛠️ Tech Stack </h2>
@@ -62,7 +60,6 @@ I also have experience supporting IT infrastructure and endpoints, troubleshooti
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-purityngugi.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purity-ngugi-174931252/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_iampurity)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngugipurityn@gmail.com)
 
 </div>
