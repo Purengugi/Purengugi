@@ -6,7 +6,7 @@
 
 <h2>🚀 About Me </h2>
 
-I'm an Information Technology graduate with hands-on experience spanning software engineering, full-stack development, Cloud & DevOps, database management, IT operations and AI/ML implementation.
+I'm an Information Technology graduate with hands-on experience spanning software engineering, full-stack development, Cloud & DevOps, database management, IT operations and AI & ML implementation.
 
 ---
 <h2>🛠️ Tech Stack </h2>
